@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-brainnpm%20install%20--save%20gh-pages/static/css/main.f4de270d.css",
+    "main.js": "/smart-brainnpm%20install%20--save%20gh-pages/static/js/main.b53f29cb.js",
+    "static/js/787.b1b1284a.chunk.js": "/smart-brainnpm%20install%20--save%20gh-pages/static/js/787.b1b1284a.chunk.js",
+    "index.html": "/smart-brainnpm%20install%20--save%20gh-pages/index.html",
+    "main.f4de270d.css.map": "/smart-brainnpm%20install%20--save%20gh-pages/static/css/main.f4de270d.css.map",
+    "main.b53f29cb.js.map": "/smart-brainnpm%20install%20--save%20gh-pages/static/js/main.b53f29cb.js.map",
+    "787.b1b1284a.chunk.js.map": "/smart-brainnpm%20install%20--save%20gh-pages/static/js/787.b1b1284a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4de270d.css",
+    "static/js/main.b53f29cb.js"
+  ]
+}
